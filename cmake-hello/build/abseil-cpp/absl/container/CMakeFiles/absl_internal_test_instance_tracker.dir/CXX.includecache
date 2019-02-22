@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../abseil-cpp/absl/container/internal/test_instance_tracker.h
+cstdlib
+-
+ostream
+-
+
+/Users/cohenjon/cmake-ex/abseil-hello-fork/cmake-hello/abseil-cpp/absl/container/internal/test_instance_tracker.cc
+absl/container/internal/test_instance_tracker.h
+/Users/cohenjon/cmake-ex/abseil-hello-fork/cmake-hello/abseil-cpp/absl/container/internal/absl/container/internal/test_instance_tracker.h
+

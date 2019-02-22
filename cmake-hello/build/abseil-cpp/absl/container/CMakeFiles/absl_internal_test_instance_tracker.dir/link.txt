@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libabsl_internal_test_instance_tracker.a  CMakeFiles/absl_internal_test_instance_tracker.dir/internal/test_instance_tracker.cc.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libabsl_internal_test_instance_tracker.a

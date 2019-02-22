@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../abseil-cpp/absl/time/internal/cctz/include/cctz/civil_time_detail.h
+cstdint
+-
+limits
+-
+ostream
+-
+type_traits
+-
+
+/Users/cohenjon/cmake-ex/abseil-hello-fork/cmake-hello/abseil-cpp/absl/time/internal/cctz/src/civil_time_detail.cc
+absl/time/internal/cctz/include/cctz/civil_time_detail.h
+/Users/cohenjon/cmake-ex/abseil-hello-fork/cmake-hello/abseil-cpp/absl/time/internal/cctz/src/absl/time/internal/cctz/include/cctz/civil_time_detail.h
+iomanip
+-
+ostream
+-
+sstream
+-
+

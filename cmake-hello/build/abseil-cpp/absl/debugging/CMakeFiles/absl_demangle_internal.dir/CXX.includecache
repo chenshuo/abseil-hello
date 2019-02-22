@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../abseil-cpp/absl/debugging/internal/demangle.h
+
+/Users/cohenjon/cmake-ex/abseil-hello-fork/cmake-hello/abseil-cpp/absl/debugging/internal/demangle.cc
+absl/debugging/internal/demangle.h
+/Users/cohenjon/cmake-ex/abseil-hello-fork/cmake-hello/abseil-cpp/absl/debugging/internal/absl/debugging/internal/demangle.h
+cstdint
+-
+cstdio
+-
+limits
+-
+

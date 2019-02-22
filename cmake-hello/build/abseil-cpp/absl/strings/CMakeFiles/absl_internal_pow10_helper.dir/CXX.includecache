@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../abseil-cpp/absl/strings/internal/pow10_helper.h
+vector
+-
+
+/Users/cohenjon/cmake-ex/abseil-hello-fork/cmake-hello/abseil-cpp/absl/strings/internal/pow10_helper.cc
+absl/strings/internal/pow10_helper.h
+/Users/cohenjon/cmake-ex/abseil-hello-fork/cmake-hello/abseil-cpp/absl/strings/internal/absl/strings/internal/pow10_helper.h
+cmath
+-
+
