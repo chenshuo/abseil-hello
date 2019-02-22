@@ -1,2 +1,0 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libabsl_internal_per_thread_sem_test_common.a  CMakeFiles/absl_internal_per_thread_sem_test_common.dir/internal/per_thread_sem_test.cc.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libabsl_internal_per_thread_sem_test_common.a
